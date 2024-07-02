@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+	<student>
+		<id>101</id>
+		<firstname>Hana</firstname>
+		<lastname>Mai</lastname>
+		<subject>Math</subject>
+		<marks>83</marks>
+	</student>
+	<student>
+		<id>102</id>
+		<firstname>Ryan</firstname>
+		<lastname>Mai</lastname>
+		<subject>Math</subject>
+		<marks>82</marks>
+	</student>
+	<student>
+		<id>103</id>
+		<firstname>Ari</firstname>
+		<lastname>Lei</lastname>
+		<subject>Math</subject>
+		<marks>89</marks>
+	</student>
+</students>

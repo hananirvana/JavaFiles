@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<house>
+	<room>
+		<item>
+			<name>Lamp</name>
+			<brand>Antiique</brand>
+			<color>Soft White</color>
+		</item>
+		<item>
+			<name>Bed</name>
+			<brand>OComfortyy</brand>
+			<color>Light Gray</color>
+		</item>
+	</room>
+</house>
